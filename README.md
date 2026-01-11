@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheDouck
+- 👋 Hi, I’m The Douck
 - 👀 I’m interested in learning more about different languages, especially the languages that make up the programs that i use daily.
 - 🌱 I’m currently learning more about low level development.
 - 💞️ I’m collaborating with [Viktor Popp](https://github.com/ViktorPopp) on different projects and i'm also helping with the [ZeroDev](https://github.com/projectzerodev) project.
