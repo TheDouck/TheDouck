@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TheDouck
 - 👀 I’m interested in learning more about different languages, especially the languages that make up the programs that i use daily.
-- 🌱 I’m currently learning more about web development.
-- 💞️ I’m collaborating with [Viktor Popp](https://github.com/ViktorPopp) on different projects and i'm also helping with the [Hexium OS](https://github.com/HexiumOS) project.
-- 📫 How to reach me via my email thedouckdev@gmail.com
+- 🌱 I’m currently learning more about low level development.
+- 💞️ I’m collaborating with [Viktor Popp](https://github.com/ViktorPopp) on different projects and i'm also helping with the [ZeroDev](https://github.com/projectzerodev) project.
+- 📫 You can reach me via my email thedouckdev@gmail.com
 - ⚡ Fun fact: I use Arch...BTW (sry had to do it)
 
 <!---
